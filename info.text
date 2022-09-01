@@ -1,0 +1,5 @@
+for createing  migration command is ------> 
+    npx sequelize-cli migration:generate --name user
+for generating DB structure like connection , model and migration file 
+    npx sequelize-cli init
+    npx sequelize-cli db:migrate
